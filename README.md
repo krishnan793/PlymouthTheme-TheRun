@@ -1,12 +1,12 @@
 # PlymouthTheme-TheRun
 This is a Plymouth theme created that can be used in Linux Distributions.
 
-[![Video](https://github.com/krishnan793/PlymouthTheme-TheRun/blob/master/images/PlymouthTheme-TheRun.gif?raw=true)](https://www.youtube.com/watch?v=c6f478VBhtE)
+[![Video](https://github.com/krishnan793/PlymouthTheme-TheRun/blob/master/images/PlymouthTheme-TheRun.gif?raw=true)](https://youtu.be/yNW1hTyDe5U)
 
 
-[Video] https://www.youtube.com/watch?v=c6f478VBhtE
+[Video] https://youtu.be/yNW1hTyDe5U
 
-[Blog] http://eionix.blogspot.in/2016/10/plymouth-theme-for-ubuntu.html
+[Blog] http://eionix.blogspot.in/2016/11/this-is-another-theme-i-created-for.html
 
 # Installation
 

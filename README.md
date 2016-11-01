@@ -1,5 +1,5 @@
 # PlymouthTheme-TheRun
-This is a Plymouth theme created that can be used in Linux Distributions.
+This is a Plymouth theme created that can be used in Linux Distributions. Credits to Joel Roset for the FX animation.
 
 [![Video](https://github.com/krishnan793/PlymouthTheme-TheRun/blob/master/images/PlymouthTheme-TheRun.gif?raw=true)](https://youtu.be/yNW1hTyDe5U)
 

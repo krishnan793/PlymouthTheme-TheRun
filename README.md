@@ -18,7 +18,7 @@ Clone this repository.
     
 Install the theme.
 
-    sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/PlymouthTheme-Cat/PlymouthTheme-TheRun 100
+    sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/PlymouthTheme-TheRun/PlymouthTheme-TheRun.plymouth 100
 
 Select the default theme.
 

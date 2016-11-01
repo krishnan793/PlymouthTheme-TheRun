@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=PlymouthTheme-TheRun
+Description=Desc
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/PlymouthTheme-TheRun/images
+ScriptFile=/usr/share/plymouth/themes/PlymouthTheme-TheRun/PlymouthTheme-TheRun.script

@@ -1,0 +1,24 @@
+#Author: Ananthakrishnan U S
+#Blog:   eionix.blogspot.in
+#Github: github.com/krishnan793
+
+Window.SetBackgroundTopColor (0.0,0.0,0.0); 
+Window.SetBackgroundBottomColor (0.0,0.0,0.0);  
+
+for (i = 0; i < 10; i++)
+  seq_image[i] = Image("seq-" + i + ".png");
+seq_image_sprite = Sprite();
+
+
+seq_image_sprite.SetX(Window.GetWidth() / 2 - seq_image[0].GetWidth() / 2); # Place in the centre
+seq_image_sprite.SetY(Window.GetHeight() / 2 - seq_image[0].GetHeight() / 2);
+
+progress = 0;
+
+fun refresh_callback ()
+  {
+    seq_image_sprite.SetImage(seq_image[Math.Int(progress / 3) % 10]);
+    progress++;
+  }
+  
+Plymouth.SetRefreshFunction (refresh_callback);

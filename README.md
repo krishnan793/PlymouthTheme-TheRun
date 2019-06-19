@@ -6,7 +6,7 @@ This is a Plymouth theme created that can be used in Linux Distributions. Credit
 
 [Video] https://youtu.be/yNW1hTyDe5U
 
-[Blog] http://eionix.blogspot.in/2016/11/this-is-another-theme-i-created-for.html
+[Blog] https://www.eionix.co.in/2016/11/02/this-is-another-theme-i-created-for.html
 
 # Installation
 
